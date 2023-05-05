@@ -5,6 +5,7 @@
 @import url(https://celestialreaver.github.io/BetterDiscord/themes/base/discard/specialColors.css);
 
 :root {
+  --customFont: "gg sans";
   --mainColor: #03edf9;
   --backgroundColor01: #2a2139;
   --backgroundColor02: #241b2f;
