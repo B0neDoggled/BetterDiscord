@@ -5,7 +5,6 @@
 @import url(https://celestialreaver.github.io/BetterDiscord/themes/base/discard/specialColors.css);
 
 :root {
-  --customFont: "gg sans";
   --mainColor: #03edf9;
   --backgroundColor01: #2a2139;
   --backgroundColor02: #241b2f;
@@ -29,7 +28,7 @@
   --rs-invisible-color: #b6b1b1;
   --rs-phone-visible: block;
   --rs-phone-color: var(--rs-online-color);
-  --customFont: "Whitney";
+  --customFont: "gg sans";
   --rs-version: "1.0.2";
   --logo-gif: url('https://i.imgur.com/z0WUs3L.gifv');
   --chat-bubble: 0;
